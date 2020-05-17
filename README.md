@@ -16,7 +16,7 @@ btc_node_testnet:
   basic: '<Basic Auth>'
   host: '<Host>'
 btc_node_mainnet:
-  basic: '<Basic Auth>='
+  basic: '<Basic Auth>'
   host: '<Host>'
 kubernetes_stage:
   context: '<GKE Context>'
