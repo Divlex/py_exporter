@@ -1,9 +1,9 @@
 # py_exporter
 ## **This repository is not intended for General use.**
-Use: `python3.8`
-Install requirement: `python3.8 -m pip install -r requirement.txt`
-To start usage: `./exporter.py [<port>]`
-Before start you must create config file: `auth.conf.yaml`
+Use: `python3.8`  
+Install requirement: `python3.8 -m pip install -r requirement.txt`  
+To start usage: `./exporter.py [<port>]`  
+Before start you must create config file: `auth.conf.yaml`  
 And add config:
 ```
 blockcypher-dev:
